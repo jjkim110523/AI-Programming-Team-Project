@@ -1,4 +1,7 @@
 # What am I looking at?
+<p align="center">
+<img src="docs/angry_moomin.png" />
+</p>
 
 
 > AIN6020. AI Programming  
